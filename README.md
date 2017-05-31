@@ -115,7 +115,7 @@
 * Система рейтингов
 * Возможность сохранения игрового процесса
 
-####Architectural drivers
+#### Architectural drivers
 
 Класс ApplicationMain - точка входа в программу
 
